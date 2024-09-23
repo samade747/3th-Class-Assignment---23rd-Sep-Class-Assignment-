@@ -1,5 +1,6 @@
-import Navbar from './components/Navbar/Navbar';
-import Footer from './components/Footer/Footer';
+// page.tsx
+import Navbar from './components/navbar/page';
+import Footer from './components/footer/page';
 import ParentComponent from './components/ParentComponent/ParentComponent';
 
 export default function Home() {

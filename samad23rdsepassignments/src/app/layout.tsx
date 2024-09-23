@@ -1,3 +1,4 @@
+// app/layout.tsx or app/root/layout.tsx depending on your Next.js version
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";

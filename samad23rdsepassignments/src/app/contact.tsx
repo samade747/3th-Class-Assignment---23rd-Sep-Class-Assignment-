@@ -1,5 +1,7 @@
-import Navbar from '../components/Navbar/Navbar';
-import Footer from '../components/Footer/Footer';
+
+import Footer from './components/footer/page';
+import Navbar from './components/navbar/page';
+
 
 const Contact = () => {
   return (
@@ -9,6 +11,6 @@ const Contact = () => {
       <Footer />
     </div>
   );
-};
+}
 
 export default Contact;

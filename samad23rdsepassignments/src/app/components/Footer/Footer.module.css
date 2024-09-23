@@ -1,10 +1,9 @@
+/* components/Footer/Footer.module.css */
 .footer {
-    text-align: center;
-    padding: 1rem;
-    background-color: #282c34; 
-    color: white;             
-    position: relative;       
-    bottom: 0;               
-    width: 100%;             
-  }
-  
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}

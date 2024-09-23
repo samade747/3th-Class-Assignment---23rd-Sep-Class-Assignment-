@@ -1,3 +1,4 @@
+// components/ChildComponent/ChildComponent.tsx
 interface ChildComponentProps {
     message: string;
   }
