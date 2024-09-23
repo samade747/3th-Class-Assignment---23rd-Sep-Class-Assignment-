@@ -1,4 +1,4 @@
-// components/ParentComponent/ParentComponent.tsx
+
 import ChildComponent from '../ChildComponent/ChildComponent';
 
 const ParentComponent = () => {
