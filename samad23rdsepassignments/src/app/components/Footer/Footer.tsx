@@ -1,6 +1,11 @@
+import styles from './Footer.module.css';
+
 const Footer = () => {
-    return <footer>SAMADE747@GITHUB © 2024 My App</footer>;
-  };
-  
-  export default Footer;
-  
+  return (
+    <footer className={styles.footer}>
+      SAMADDEVELOPER© 2024 SAMADE747
+    </footer>
+  );
+};
+
+export default Footer;
