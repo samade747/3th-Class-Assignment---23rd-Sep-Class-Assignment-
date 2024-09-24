@@ -25,3 +25,18 @@ body {
     text-wrap: balance;
   }
 }
+
+
+button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: #005bb5;
+}
