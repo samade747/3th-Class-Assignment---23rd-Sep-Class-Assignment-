@@ -1,0 +1,13 @@
+/* src/pages/about/about.module.css */
+.container {
+  padding: 20px;
+  background-color: #e0f7fa;
+  color: #00796b;
+  width: 100%;
+  min-height: 100%;
+
+}
+
+.title {
+  color: #00796b;
+}
