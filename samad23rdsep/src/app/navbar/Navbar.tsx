@@ -1,6 +1,7 @@
+// src/app/navbar/Navbar.tsx
 import Link from 'next/link';
-import { useRouter } from 'next/router';
-import styles from './Navbar.module.css'; // Optional: CSS module for styling
+import { useRouter } from 'next/navigation'; // Use next/navigation instead of next/router
+
 
 const Navbar = () => {
   const router = useRouter();
