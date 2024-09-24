@@ -1,4 +1,5 @@
-import Child from './Child';
+import Child from "./Chid";
+
 
 const Parent = () => {
   const message = "Hello from Parent!";
