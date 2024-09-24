@@ -1,0 +1,15 @@
+.contact {
+    padding: 20px;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+  
+  .contact h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .contact p {
+    color: #666;
+  }
+  
