@@ -3,10 +3,6 @@ import ChildComponent from './child/ChildComponent';
 import { useRouter } from 'next/navigation'; 
 
 
-
-
-
-
 export default function Home() {
   const router = useRouter(); // Initialize useRouter
 
